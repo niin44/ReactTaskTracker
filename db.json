@@ -7,8 +7,8 @@
       "reminder": true
     },
     {
-      "text": "Test",
-      "day": "",
+      "text": "Meeting",
+      "day": "Feb 6th at 2 pm",
       "reminder": true,
       "id": 2
     }
